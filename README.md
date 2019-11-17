@@ -1,6 +1,8 @@
 # vue + koa2 + webpack4 实现服务端渲染
 
-具体细节：https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-vue/lessons/16.md
+1. 具体细节：https://github.com/dirkhe1051931999/hjBlog/blob/master/blog-vue/lessons/16.md
+
+2. demo 地址：https://github.com/dirkhe1051931999/common-demo/tree/master/vue-ssr-demo
 
 ## 执行
 
